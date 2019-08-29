@@ -1,7 +1,6 @@
 # 主題：Machine Learning HW1 講者：柏勳
 ###### tags:`MachineLearning` `LinearRegression` `HW`
 
-
 * Q1
 實作linear regression : y = ax + b 
 理解 loss function
